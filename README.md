@@ -5,3 +5,4 @@
 # JS - Projects
 1- Background Animation Effects || Anime JS
 2- Infinite Animation Effects
+3- Hover to Affect Sibling Elements
